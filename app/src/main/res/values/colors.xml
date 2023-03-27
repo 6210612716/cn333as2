@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="yellow">#FFC107</color>
+    <color name="chinese_white">#D4EEE3</color>
+    <color name="tea_green">#D3EBCE</color>
+    <color name="nyanza">#ECFDDF</color>
+    <color name="ivory">#FDFFEB</color>
+    <color name="baby_blue_eyes">#A7CCFC</color>
+    <color name="silver_foil">#ADAEB3</color>
+    <color name="dark_grey">#2E3136</color>
+    <color name="light_grey">#E8E8E9</color>
+    <color name="cornflower_blue">#6996F6</color>
+    <color name="tropical_blue">#C0E4F6</color>
+    <color name="steel_blue">#4682B4</color>
+    <color name="midnight_blue">#191970</color>
+    <color name="denim_blue">#131E3A</color>
+
+    <color name="sky_blue">#8BD2EC</color>
+    <color name="royal_blue">#4169E1</color>
+    <color name="sapphire_blue">#0F52BA</color>
+    <color name="yellow_orange">#FFAA33</color>
+    <color name="bright_yellow">#FFEA00</color>
+    <color name="pastel_yellow">#FFFAA0</color>
+    <color name="maize_yellow">#FBEC5D</color>
+    <color name="vanilla_yellow">#F3E5AB</color>
+    <color name="gold">#FFD700</color>
+    <color name="iris_purple">#5D3FD3</color>
+    <color name="c1">#ADAEB3</color>
+
+    <color name="my_blue">#27357A</color>
+    <color name="my_blue_2">#363C59</color>
+    <color name="my_yellow_orange">#FFAC38</color>
+
+
+</resources>

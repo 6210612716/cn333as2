@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quiz Game</string>
+    <string name="app_header">Quiz</string>
+    <string name="skip">SKIP</string>
+    <string name="score">%d Points</string>
+    <string name="question_count">%d of 10 questions</string>
+    <string name="game_over">Game Over!</string>
+    <string name="you_scored">"You scored: %d"</string>
+    <string name="exit">Exit</string>
+    <string name="play_again">Play Again</string>
+    <string name="correct_answer">Correct!</string>
+    <string name="wrong_answer">Wrong Answer!</string>
+</resources>
